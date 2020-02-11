@@ -1,0 +1,31 @@
+c:\users\dunja\documents\visual studio 2015\Projects\Apoteka\Apoteka\bin\Debug\Apoteka.exe.config
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\bin\Debug\Apoteka.exe
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\Apoteka.csprojResolveAssemblyReference.cache
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\Forme\frmDobavljac.g.cs
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\Forme\frmFarmaceut.g.cs
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\Forme\frmKupac.g.cs
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\Forme\frmNabavka.g.cs
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\Forme\frmPlacanje.g.cs
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\Forme\frmProizvod.g.cs
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\Forme\frmVrstaProizvoda.g.cs
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\MainWindow.g.cs
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\App.g.cs
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\Apoteka_MarkupCompile.cache
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\Apoteka_MarkupCompile.lref
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\Forme\frmDobavljac.baml
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\Forme\frmFarmaceut.baml
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\Forme\frmKupac.baml
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\Forme\frmNabavka.baml
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\Forme\frmPlacanje.baml
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\Forme\frmProizvod.baml
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\Forme\frmVrstaProizvoda.baml
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\MainWindow.baml
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\Apoteka.g.resources
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.Cache
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\Apoteka.exe
+C:\Users\Dunja\Documents\Visual Studio 2015\Projects\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
+C:\Users\Dunja\Desktop\Dunja Ilic IT48-2016 Apoteka\Apoteka\Apoteka\bin\Debug\Apoteka.exe.config
+C:\Users\Dunja\Desktop\Dunja Ilic IT48-2016 Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.exe
+C:\Users\Dunja\Desktop\Dunja Ilic IT48-2016 Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
